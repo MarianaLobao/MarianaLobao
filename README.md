@@ -1,4 +1,4 @@
-### Hi there 👋
+Olá! Eou sou a Mariana Lobão, estudante e futura Analista de dados com foco em Python, SQL e Power BI.
 
 <!--
 **MarianaLobao/MarianaLobao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
