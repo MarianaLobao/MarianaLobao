@@ -1,4 +1,4 @@
-## Olá! Eou sou a Mariana Lobão, estudante e futura Analista de dados com foco em Python, SQL e Power BI.
+## Olá! Eu sou a Mariana Lobão, estudante e futura Analista de dados com foco em Python, SQL e Power BI.
 
 <div align="center">
   <a href="https://github.com/MarianaLobao">
